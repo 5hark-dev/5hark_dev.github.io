@@ -63,3 +63,5 @@ class CanvasRenderer
         renderRec(container);
     }
 }
+
+export default CanvasRenderer;
