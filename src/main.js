@@ -1,4 +1,4 @@
-import * as Lib from "./lib/index.js";
+import * as Lib from "./library/index.js";
 const {Container, CanvasRenderer, Text} = Lib;
 
 // game setup code
